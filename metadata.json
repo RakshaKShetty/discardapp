@@ -4,12 +4,14 @@
   "pageOrder": [
     "Page1",
     "Page2",
-    "Page3"
+    "Page3",
+    "Page4"
   ],
   "publishedPageOrder": [
     "Page1",
     "Page2",
-    "Page3"
+    "Page3",
+    "Page4"
   ],
   "publishedDefaultPageName": "Page1",
   "unpublishedDefaultPageName": "Page1",
@@ -33,9 +35,33 @@
     "Page3_UpdateQuery": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
+    },
+    "Page4_DeleteQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page4_FindQuery": {
+      "unpublishedUserSetOnLoad": true,
+      "publishedUserSetOnLoad": true
+    },
+    "Page4_InsertQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page4_UpdateQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
     }
   },
-  "publishedLayoutmongoEscapedWidgets": {},
-  "unpublishedLayoutmongoEscapedWidgets": {},
+  "publishedLayoutmongoEscapedWidgets": {
+    "Page4": [
+      "data_table"
+    ]
+  },
+  "unpublishedLayoutmongoEscapedWidgets": {
+    "Page4": [
+      "data_table"
+    ]
+  },
   "fileFormatVersion": 2
 }
