@@ -5,13 +5,15 @@
     "Page1",
     "Page2",
     "Page3",
-    "Page4"
+    "Page4",
+    "Page4 Copy"
   ],
   "publishedPageOrder": [
     "Page1",
     "Page2",
     "Page3",
-    "Page4"
+    "Page4",
+    "Page4 Copy"
   ],
   "publishedDefaultPageName": "Page1",
   "unpublishedDefaultPageName": "Page1",
@@ -36,6 +38,22 @@
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
+    "Page4 Copy_DeleteQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page4 Copy_FindQuery": {
+      "unpublishedUserSetOnLoad": true,
+      "publishedUserSetOnLoad": true
+    },
+    "Page4 Copy_InsertQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page4 Copy_UpdateQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
     "Page4_DeleteQuery": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
@@ -56,10 +74,16 @@
   "publishedLayoutmongoEscapedWidgets": {
     "Page4": [
       "data_table"
+    ],
+    "Page4 Copy": [
+      "data_table"
     ]
   },
   "unpublishedLayoutmongoEscapedWidgets": {
     "Page4": [
+      "data_table"
+    ],
+    "Page4 Copy": [
       "data_table"
     ]
   },
